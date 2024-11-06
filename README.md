@@ -7,3 +7,4 @@ This is my first attemp to make a game, taken heavy inspiration from space compa
 ## Contributors
 None yet, Its just me. Wanna Be My First Helper?
 
+> All help/Suggestions appreciated

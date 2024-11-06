@@ -16,10 +16,14 @@
       color: white;
     }
   </style>
+
   <body style="background-color:black">
     <h1 class="header">LW Space Gaem</h1>
     <h2 class="header">By: Kai</h2>
-    <p>Indentured laborer. /n Amount owned: + workers</p>
+    <p>Indentured laborer. <br> Amount owned: <span id="WorkerAMNT">0</span> laborers</p>
     
   </body>
+  <script>
+    WorkerAMNT.innerHTML = Variables.workers;
+  </script>
 </html>
